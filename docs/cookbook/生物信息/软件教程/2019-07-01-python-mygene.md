@@ -30,7 +30,7 @@ MyGene.info 提供两种简单的 Web 服务：一种用于基因查询，另一
 - MyGene R Client：<https://github.com/biothings/mygene.R>
 - MyGene Python Client：<https://github.com/biothings/mygene.py>
 
-在这里，我们简单展示如何在 Python 中使用 **mygene**  模块来快速轻松地进行类似的 ID 匹配（映射）。**mygene**  本质上是一个方便的 Python 模块，通过这个模块我们可以访问 [MyGene.info](MyGene.info)  的基因查询 Web 服务。
+在这里，我们简单展示如何在 Python 中使用 **mygene**  模块来快速轻松地进行类似的 ID 匹配（映射）。**mygene**  本质上是一个方便的 Python 模块，通过这个模块我们可以访问 [MyGene.info](https://mygene.info/) 的基因查询 Web 服务。
 
 ## 二、mygene 安装与使用
 
