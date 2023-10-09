@@ -2,7 +2,7 @@
 title: All in Yuque
 urlname: 2023-02-07-all-in-yuque
 author: 章鱼猫先生
-date: "2023-02-07 15:26:00"
+date: 2023-02-07
 updated: "2023-03-22 11:36:26"
 ---
 

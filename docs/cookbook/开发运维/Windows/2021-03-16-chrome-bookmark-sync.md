@@ -2,7 +2,7 @@
 title: 使用码云同步谷歌 Chrome 浏览器书签
 urlname: 2021-03-16-chrome-bookmark-sync
 author: 章鱼猫先生
-date: "2021-03-16 11:39:40"
+date: 2021-03-16
 updated: "2021-10-31 10:40:20"
 ---
 

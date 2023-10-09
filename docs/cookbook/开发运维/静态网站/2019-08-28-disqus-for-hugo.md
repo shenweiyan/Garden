@@ -2,7 +2,7 @@
 title: 博客 | hugo 博客添加 disqus 评论系统
 urlname: 2019-08-28-disqus-for-hugo
 author: 章鱼猫先生
-date: "2019-08-28 16:30:50"
+date: 2019-08-28
 updated: "2021-06-30 09:36:31"
 ---
 

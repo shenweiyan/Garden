@@ -2,7 +2,7 @@
 title: Windows server 2008 开启端口
 urlname: 2019-07-01-windows-ports
 author: 章鱼猫先生
-date: "2019-07-01 11:50:35"
+date: 2019-07-01
 updated: "2023-07-19 15:15:03"
 ---
 

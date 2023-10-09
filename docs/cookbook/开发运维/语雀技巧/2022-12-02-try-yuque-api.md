@@ -2,7 +2,7 @@
 title: 基于语雀 API 的文档管理探索
 urlname: 2022-12-02-try-yuque-api
 author: 章鱼猫先生
-date: "2022-12-02 15:23:26"
+date: 2022-12-02
 updated: "2023-04-12 17:00:15"
 ---
 

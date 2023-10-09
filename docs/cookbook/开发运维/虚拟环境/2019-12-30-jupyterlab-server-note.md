@@ -2,7 +2,7 @@
 title: JupyterLab Server 搭建与使用笔记
 urlname: 2019-12-30-jupyterlab-server-note
 author: 章鱼猫先生
-date: "2019-12-30 10:24:21"
+date: 2019-12-30
 updated: "2022-06-14 16:27:08"
 ---
 

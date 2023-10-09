@@ -2,7 +2,7 @@
 title: 顶级生物信息学 RSS 订阅源
 urlname: 2020-05-28-bio-rss-feeds
 author: 章鱼猫先生
-date: "2020-05-28 10:52:05"
+date: 2020-05-28
 updated: "2021-06-25 10:34:33"
 ---
 

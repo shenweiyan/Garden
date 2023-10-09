@@ -2,7 +2,7 @@
 title: QQ 邮箱设置自定义域名邮箱
 urlname: 2019-12-23-domain-mail-qq-setting
 author: 章鱼猫先生
-date: "2019-12-23 13:35:37"
+date: 2019-12-23
 updated: "2021-11-19 16:27:16"
 ---
 

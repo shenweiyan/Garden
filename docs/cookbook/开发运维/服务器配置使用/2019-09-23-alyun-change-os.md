@@ -2,7 +2,7 @@
 title: 阿里云 ECS 更换操作系统
 urlname: 2019-09-23-alyun-change-os
 author: 章鱼猫先生
-date: "2019-09-23 15:04:36"
+date: 2019-09-23
 updated: "2021-07-07 15:08:20"
 ---
 

@@ -2,7 +2,7 @@
 title: Linux 专栏
 urlname: 2023-07-25-linux
 author: 章鱼猫先生
-date: "2023-07-25 08:09:10"
+date: 2023-07-25
 updated: "2023-07-25 08:09:10"
 ---
 

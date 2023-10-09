@@ -2,7 +2,7 @@
 title: Python 获取 NCBI 基因名 SSL 证书出现异常？
 urlname: 2021-09-26-unable-to-get-local-issuer-certifica
 author: 章鱼猫先生
-date: "2021-09-26 16:55:23"
+date: 2021-09-26
 updated: "2021-11-06 19:29:44"
 ---
 

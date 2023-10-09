@@ -2,7 +2,7 @@
 title: 基于 pypiserver 的 PyPI 私有仓库搭建实践
 urlname: 2019-06-01-pypiserver-trial
 author: 章鱼猫先生
-date: "2019-06-01 15:06:47"
+date: 2019-06-01
 updated: "2021-06-25 10:52:27"
 ---
 

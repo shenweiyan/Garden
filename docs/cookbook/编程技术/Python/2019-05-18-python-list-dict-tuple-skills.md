@@ -2,7 +2,7 @@
 title: Python 的列表/字典/元组技巧
 urlname: 2019-05-18-python-list-dict-tuple-skills
 author: 章鱼猫先生
-date: "2019-05-18 20:50:51"
+date: 2019-05-18
 updated: "2023-01-06 11:01:54"
 ---
 

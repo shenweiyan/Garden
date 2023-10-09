@@ -2,7 +2,7 @@
 title: Jupyter Notebook 教程(三)：多语言编程环境配置
 urlname: 2019-07-17-jupyter-notebook-toturial-3
 author: 章鱼猫先生
-date: "2019-07-17 16:25:34"
+date: 2019-07-17
 updated: "2021-06-30 09:38:00"
 ---
 

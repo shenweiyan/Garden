@@ -2,7 +2,7 @@
 title: 使用 coding.net 发布你的个人博客
 urlname: 2020-12-23-start-coding-pages
 author: 章鱼猫先生
-date: "2020-12-23 11:02:35"
+date: 2020-12-23
 updated: "2021-06-30 09:35:51"
 ---
 

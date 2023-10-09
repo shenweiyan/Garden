@@ -2,7 +2,7 @@
 title: Python 日期和时间函数使用指南
 urlname: 2019-09-21-how-to-use-datetime-in-python
 author: 章鱼猫先生
-date: "2019-09-21 07:20:19"
+date: 2019-09-21
 updated: "2021-06-30 09:41:18"
 ---
 

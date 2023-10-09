@@ -2,7 +2,7 @@
 title: 不提供账号注销等于耍流氓
 urlname: 2019-07-23-coding-cancel-account
 author: 章鱼猫先生
-date: "2019-07-23 11:19:17"
+date: 2019-07-23
 updated: "2021-06-30 09:47:49"
 ---
 

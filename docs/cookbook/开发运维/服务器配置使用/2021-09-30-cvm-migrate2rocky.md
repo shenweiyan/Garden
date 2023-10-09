@@ -2,7 +2,7 @@
 title: 腾讯云/阿里云升级 Rocky Linux
 urlname: 2021-09-30-cvm-migrate2rocky
 author: 章鱼猫先生
-date: "2021-09-30 14:46:58"
+date: 2021-09-30
 updated: "2022-05-27 12:05:55"
 ---
 

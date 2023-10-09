@@ -2,7 +2,7 @@
 title: Python 均匀地分割字符串
 urlname: 2023-03-27-qdlrkzttripr9wgg
 author: 章鱼猫先生
-date: "2023-03-27 11:10:27"
+date: 2023-03-27
 updated: "2023-03-27 11:29:53"
 ---
 

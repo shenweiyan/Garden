@@ -2,7 +2,7 @@
 title: GitHub 代码实时同步 gitee 和 coding
 urlname: 2021-12-10-github-sync
 author: 章鱼猫先生
-date: "2021-12-10 14:41:59"
+date: 2021-12-10
 updated: "2023-03-30 16:12:07"
 ---
 

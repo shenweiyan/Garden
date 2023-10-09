@@ -2,7 +2,7 @@
 title: 富集分析的几个区别
 urlname: 2019-12-05-enrichment-analysis-differentiation
 author: 章鱼猫先生
-date: "2019-12-05 09:02:46"
+date: 2019-12-05
 updated: "2023-07-25 02:40:09"
 ---
 

@@ -2,7 +2,7 @@
 title: 一次胆战心惊的真实集群运维经历
 urlname: 2019-07-13-hpc-experience-glibc
 author: 章鱼猫先生
-date: "2019-07-13 07:02:05"
+date: 2019-07-13
 updated: "2021-06-30 09:36:51"
 ---
 

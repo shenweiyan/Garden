@@ -2,7 +2,7 @@
 title: 腾讯云 cloudbase 云开发使用笔记
 urlname: 2020-10-21-cloudbase-note
 author: 章鱼猫先生
-date: "2020-10-21 09:21:05"
+date: 2020-10-21
 updated: "2021-06-30 09:36:01"
 ---
 

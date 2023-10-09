@@ -2,7 +2,7 @@
 title: Anaconda 使用的一些体验与困惑
 urlname: 2019-07-04-anaconda-experience
 author: 章鱼猫先生
-date: "2019-07-04 14:20:26"
+date: 2019-07-04
 updated: "2021-06-25 10:38:33"
 ---
 

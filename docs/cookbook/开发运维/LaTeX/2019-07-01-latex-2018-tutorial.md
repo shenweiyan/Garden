@@ -2,7 +2,7 @@
 title: LaTeX 2018 安装与使用教程
 urlname: 2019-07-01-latex-2018-tutorial
 author: 章鱼猫先生
-date: "2019-07-01 11:50:35"
+date: 2019-07-01
 updated: "2023-04-26 15:07:23"
 ---
 

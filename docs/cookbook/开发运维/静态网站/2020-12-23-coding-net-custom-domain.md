@@ -2,7 +2,7 @@
 title: 自定义 coding.net 静态网站域名
 urlname: 2020-12-23-coding-net-custom-domain
 author: 章鱼猫先生
-date: "2020-12-23 14:35:12"
+date: 2020-12-23
 updated: "2021-06-30 09:35:41"
 ---
 

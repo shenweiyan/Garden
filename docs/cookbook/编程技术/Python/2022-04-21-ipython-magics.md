@@ -2,7 +2,7 @@
 title: IPython 内置魔法命令
 urlname: 2022-04-21-ipython-magics
 author: 章鱼猫先生
-date: "2022-04-21 10:36:45"
+date: 2022-04-21
 updated: "2023-09-06 11:09:50"
 ---
 

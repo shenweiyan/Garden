@@ -2,7 +2,7 @@
 title: 搜狗拼音输入法
 urlname: 2021-11-18-pinyin-sogou
 author: 章鱼猫先生
-date: "2021-11-18 14:58:49"
+date: 2021-11-18
 updated: "2022-01-12 10:54:51"
 ---
 

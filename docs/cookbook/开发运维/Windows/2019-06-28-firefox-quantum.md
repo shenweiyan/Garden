@@ -2,7 +2,7 @@
 title: Firefox Quantum 向左，Google Chrome 向右
 urlname: 2019-06-28-firefox-quantum
 author: 章鱼猫先生
-date: "2019-06-28 16:23:08"
+date: 2019-06-28
 updated: "2021-06-25 10:47:28"
 ---
 

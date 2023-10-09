@@ -2,7 +2,7 @@
 title: 博客 | Hugo 博客折腾的一些记录
 urlname: 2019-08-08-build-hugo-blogs
 author: 章鱼猫先生
-date: "2019-08-08 17:05:21"
+date: 2019-08-08
 updated: "2023-01-05 11:16:14"
 ---
 

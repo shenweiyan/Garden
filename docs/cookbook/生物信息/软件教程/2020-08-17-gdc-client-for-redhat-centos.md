@@ -2,7 +2,7 @@
 title: 在 RedHat 使用 gdc-client 下载 TCGA 数据
 urlname: 2020-08-17-gdc-client-for-redhat-centos
 author: 章鱼猫先生
-date: "2020-08-17 15:02:08"
+date: 2020-08-17
 updated: "2021-06-25 10:37:33"
 ---
 

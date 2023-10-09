@@ -2,7 +2,7 @@
 title: 关于 openEuler
 urlname: 2021-10-27-about-openeuler
 author: 章鱼猫先生
-date: "2021-10-27 09:18:03"
+date: 2021-10-27
 updated: "2023-07-19 15:39:51"
 ---
 

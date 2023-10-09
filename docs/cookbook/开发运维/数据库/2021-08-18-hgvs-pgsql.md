@@ -2,7 +2,7 @@
 title: Python 包安装和 postgresql 的一些问题
 urlname: 2021-08-18-hgvs-pgsql
 author: 章鱼猫先生
-date: "2021-08-18 10:19:45"
+date: 2021-08-18
 updated: "2022-09-29 08:24:46"
 ---
 

@@ -2,7 +2,7 @@
 title: PostgreSQL 常用命令
 urlname: 2019-09-30-pgsql-usage
 author: 章鱼猫先生
-date: "2019-09-30 08:39:14"
+date: 2019-09-30
 updated: "2023-08-22 11:03:01"
 comments: true
 ---

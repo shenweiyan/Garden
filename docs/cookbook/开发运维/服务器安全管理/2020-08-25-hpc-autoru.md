@@ -2,7 +2,7 @@
 title: 一次 HPC 病毒感染与解决经历
 urlname: 2020-08-25-hpc-autoru
 author: 章鱼猫先生
-date: "2020-08-25 09:00:56"
+date: 2020-08-25
 updated: "2021-06-30 09:36:57"
 ---
 

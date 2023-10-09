@@ -2,7 +2,7 @@
 title: Jekyll 网站添加访问量统计分析
 urlname: 2019-06-03-jekyll-add-page-view
 author: 章鱼猫先生
-date: "2019-06-03 13:57:41"
+date: 2019-06-03
 updated: "2021-06-30 09:36:45"
 ---
 

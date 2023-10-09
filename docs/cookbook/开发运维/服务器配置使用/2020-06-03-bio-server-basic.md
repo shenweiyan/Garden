@@ -2,7 +2,7 @@
 title: 生信服务器入门级基本设置
 urlname: 2020-06-03-bio-server-basic
 author: 章鱼猫先生
-date: "2020-06-03 09:51:37"
+date: 2020-06-03
 updated: "2021-07-19 11:20:16"
 ---
 

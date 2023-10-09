@@ -2,7 +2,7 @@
 title: 使用 Docker 分析高通量测序数据
 urlname: 2021-06-10-docker-ngs
 author: 章鱼猫先生
-date: "2021-06-10 13:53:22"
+date: 2021-06-10
 updated: "2021-06-25 10:48:55"
 ---
 

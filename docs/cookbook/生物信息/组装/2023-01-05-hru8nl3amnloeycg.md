@@ -2,7 +2,7 @@
 title: SOAPdenovo 使用备忘
 urlname: 2023-01-05-hru8nl3amnloeycg
 author: 章鱼猫先生
-date: "2023-01-05 17:15:04"
+date: 2023-01-05
 updated: "2023-01-05 17:28:02"
 ---
 

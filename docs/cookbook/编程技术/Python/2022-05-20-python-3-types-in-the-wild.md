@@ -2,7 +2,7 @@
 title: 失控的 Python3 类型
 urlname: 2022-05-20-python-3-types-in-the-wild
 author: 章鱼猫先生
-date: "2022-05-20 09:10:19"
+date: 2022-05-20
 updated: "2023-09-08 09:34:55"
 ---
 

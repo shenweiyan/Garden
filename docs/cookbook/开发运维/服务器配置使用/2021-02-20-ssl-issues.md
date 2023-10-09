@@ -2,7 +2,7 @@
 title: 服务器关于 OpenSSL/SSL 的异常处理备忘
 urlname: 2021-02-20-ssl-issues
 author: 章鱼猫先生
-date: "2021-02-20 14:08:15"
+date: 2021-02-20
 updated: "2021-06-25 10:54:01"
 ---
 

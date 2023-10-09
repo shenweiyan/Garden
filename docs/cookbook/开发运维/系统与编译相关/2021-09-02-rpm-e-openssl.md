@@ -2,7 +2,7 @@
 title: 服务器崩溃日志之误删 OpenSSL
 urlname: 2021-09-02-rpm-e-openssl
 author: 章鱼猫先生
-date: "2021-09-02 16:38:17"
+date: 2021-09-02
 updated: "2021-10-29 11:39:51"
 ---
 

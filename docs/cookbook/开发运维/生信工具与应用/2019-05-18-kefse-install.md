@@ -2,7 +2,7 @@
 title: LEfSe 分析软件安装小记
 urlname: 2019-05-18-kefse-install
 author: 章鱼猫先生
-date: "2019-05-18 20:43:17"
+date: 2019-05-18
 updated: "2021-10-31 10:37:47"
 ---
 

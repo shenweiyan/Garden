@@ -2,7 +2,7 @@
 title: 语雀图片的同步迁移解决方案
 urlname: 2019-08-08-sync-from-yuque-to-oss
 author: 章鱼猫先生
-date: "2019-08-08 11:44:11"
+date: 2019-08-08
 updated: "2023-03-01 15:24:35"
 ---
 

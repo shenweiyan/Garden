@@ -2,7 +2,7 @@
 title: NCBI Blast 源码编译安装方法
 urlname: 2022-12-01-chgoa2xahz44rkld
 author: 章鱼猫先生
-date: "2022-12-01 14:10:55"
+date: 2022-12-01
 updated: "2023-01-06 11:37:42"
 ---
 

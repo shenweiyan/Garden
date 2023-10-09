@@ -2,7 +2,7 @@
 title: 怎么在 CODING 上部署自己的静态网站
 urlname: 2019-12-04-coding-pages
 author: 章鱼猫先生
-date: "2019-12-04 14:16:59"
+date: 2019-12-04
 updated: "2021-08-14 10:48:58"
 ---
 

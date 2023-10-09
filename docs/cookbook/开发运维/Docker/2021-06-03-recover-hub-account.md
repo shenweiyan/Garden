@@ -2,7 +2,7 @@
 title: 终于把 7 年前的 Docker Hub 账号恢复了
 urlname: 2021-06-03-recover-hub-account
 author: 章鱼猫先生
-date: "2021-06-03 08:43:40"
+date: 2021-06-03
 updated: "2021-06-25 10:49:05"
 ---
 

@@ -2,7 +2,7 @@
 title: 生物信息学
 urlname: 2023-07-25-bioinformatics
 author: 章鱼猫先生
-date: "2023-07-25 08:09:10"
+date: 2023-07-25
 updated: "2023-07-25 08:09:10"
 ---
 

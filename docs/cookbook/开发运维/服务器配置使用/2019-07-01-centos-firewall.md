@@ -2,7 +2,7 @@
 title: 生信服务器基本配置：防火墙
 urlname: 2019-07-01-centos-firewall
 author: 章鱼猫先生
-date: "2019-07-01 11:50:35"
+date: 2019-07-01
 updated: "2021-07-26 10:48:19"
 ---
 

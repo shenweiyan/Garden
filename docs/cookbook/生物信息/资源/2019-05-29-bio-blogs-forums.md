@@ -2,7 +2,7 @@
 title: 生物信息学博客与论坛
 urlname: 2019-05-29-bio-blogs-forums
 author: 章鱼猫先生
-date: "2019-05-29 14:12:49"
+date: 2019-05-29
 updated: "2021-06-25 10:34:42"
 ---
 

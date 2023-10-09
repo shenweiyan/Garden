@@ -2,7 +2,7 @@
 title: 使用阿里云 ECS 搭建自己的 Leanote 云笔记服务
 urlname: 2019-07-04-leanote-for-ecs-tutorial
 author: 章鱼猫先生
-date: "2019-07-04 14:03:23"
+date: 2019-07-04
 updated: "2021-06-30 09:35:06"
 ---
 

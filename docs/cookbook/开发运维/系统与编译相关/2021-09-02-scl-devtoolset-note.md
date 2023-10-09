@@ -2,7 +2,7 @@
 title: SCL 笔记 | Devtoolset 安装与使用笔记
 urlname: 2021-09-02-scl-devtoolset-note
 author: 章鱼猫先生
-date: "2021-09-02 10:44:17"
+date: 2021-09-02
 updated: "2022-04-13 10:53:41"
 ---
 

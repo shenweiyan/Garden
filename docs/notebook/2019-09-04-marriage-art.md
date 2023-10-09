@@ -2,7 +2,7 @@
 title: 婚姻修养
 urlname: 2019-09-04-marriage-art
 author: 章鱼猫先生
-date: "2019-09-04 09:30:05"
+date: 2019-09-04
 updated: "2023-05-19 14:45:19"
 ---
 

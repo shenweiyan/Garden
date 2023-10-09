@@ -2,7 +2,7 @@
 title: 发现了阿里云 APP 的一个小 BUG
 urlname: 2019-07-17-bugs-of-aliyun-app
 author: 章鱼猫先生
-date: "2019-07-17 14:26:57"
+date: 2019-07-17
 updated: "2021-06-25 10:48:40"
 ---
 

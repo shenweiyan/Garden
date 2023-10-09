@@ -2,7 +2,7 @@
 title: 非 root 用户手动编译安装 GCC
 urlname: 2019-07-01-linux-gcc-install
 author: 章鱼猫先生
-date: "2019-07-01 11:50:35"
+date: 2019-07-01
 updated: "2023-03-24 09:44:07"
 ---
 

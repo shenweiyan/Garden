@@ -2,7 +2,7 @@
 title: RedHat 6.5 下安装 PyQt4 详细步骤
 urlname: 2019-05-18-redhat-install-pyqt-4
 author: 章鱼猫先生
-date: "2019-05-18 20:39:52"
+date: 2019-05-18
 updated: "2021-06-25 10:45:05"
 ---
 

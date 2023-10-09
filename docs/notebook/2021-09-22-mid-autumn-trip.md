@@ -2,7 +2,7 @@
 title: 2021 中秋之行
 urlname: 2021-09-22-mid-autumn-trip
 author: 章鱼猫先生
-date: "2021-09-22 11:06:30"
+date: 2021-09-22
 updated: "2023-05-17 16:57:12"
 ---
 

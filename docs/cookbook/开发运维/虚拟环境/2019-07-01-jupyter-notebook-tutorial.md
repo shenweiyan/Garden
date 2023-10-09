@@ -2,7 +2,7 @@
 title: 数据科学工具 Jupyter Notebook 教程
 urlname: 2019-07-01-jupyter-notebook-tutorial
 author: 章鱼猫先生
-date: "2019-07-01 11:50:35"
+date: 2019-07-01
 updated: "2021-06-30 09:37:30"
 ---
 

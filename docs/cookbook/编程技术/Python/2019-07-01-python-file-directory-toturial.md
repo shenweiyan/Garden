@@ -2,7 +2,7 @@
 title: Python 文件与目录操作方法总结
 urlname: 2019-07-01-python-file-directory-toturial
 author: 章鱼猫先生
-date: "2019-07-01 11:50:35"
+date: 2019-07-01
 updated: "2021-06-30 09:41:58"
 ---
 

@@ -2,7 +2,7 @@
 title: 让你的 conda 回滚 到以前版本的环境
 urlname: 2019-07-01-conda-env-roll-back
 author: 章鱼猫先生
-date: "2019-07-01 11:50:35"
+date: 2019-07-01
 updated: "2021-06-25 10:38:44"
 ---
 

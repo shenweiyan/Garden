@@ -63,8 +63,9 @@ nav:
         - 编程技术: cookbook/编程技术
         - 数据可视化: cookbook/数据可视化
     - 随笔乱弹: notebook
-    - 语雀知识库: https://www.yuque.com/shenweiyan
+    - 语雀: https://www.yuque.com/shenweiyan
     - RSS feed: https://shenweiyan.github.io/Knowledge-Garden/feed_rss_created.xml
+    - 博客文章: blog
     
 markdown_extensions:
     - md_in_html
@@ -80,21 +81,34 @@ plugins:
   - rss:
       enabled: True
       image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/128px-Feed-icon.svg.png
-      categories:
-        - Cookbook
       pretty_print: True
       length: 1000
-      as_creation: "date"
-      as_update: "date"
+      date_from_meta:
+          as_creation: "date"
+          as_update: "date"
       abstract_chars_count: -1
   - glightbox:
       auto_caption: false    
       caption_position: bottom
   - search:
       separator: '[\s\u200b\-]'
-  - git-revision-date
+  - git-revision-date-localized:
+      type: iso_date
+      timezone: Asia/Shanghai
+      fallback_to_build_date: true
+      exclude:
+          - blog/archive/*
+          - blog/category/*
   - include_dir_to_nav:
       reverse_sort_file: true
+  - blog:
+      blog_dir: blog
+      post_dir: "{blog}/posts"
+      archive: true
+      categories: true
+      pagination: true
+      pagination_per_page: 5
+
       
 extra:
   homepage: https://doc.weiyan.cc

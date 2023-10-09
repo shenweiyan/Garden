@@ -2,7 +2,7 @@
 title: CentOS Linux 7 安全基线设置
 urlname: 2019-07-01-security-for-centos-7
 author: 章鱼猫先生
-date: "2019-07-01 11:50:35"
+date: 2019-07-01
 updated: "2021-06-30 09:34:53"
 ---
 

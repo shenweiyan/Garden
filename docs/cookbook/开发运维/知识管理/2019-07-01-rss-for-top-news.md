@@ -2,7 +2,7 @@
 title: 使用 RSS 打造你的科研资讯头条
 urlname: 2019-07-01-rss-for-top-news
 author: 章鱼猫先生
-date: "2019-07-01 11:50:35"
+date: 2019-07-01
 updated: "2021-06-25 10:45:24"
 ---
 

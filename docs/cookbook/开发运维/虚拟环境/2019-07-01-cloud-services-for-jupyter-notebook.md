@@ -2,7 +2,7 @@
 title: 基于云的六大 Jupyter Notebook 平台测评
 urlname: 2019-07-01-cloud-services-for-jupyter-notebook
 author: 章鱼猫先生
-date: "2019-07-01 11:50:35"
+date: 2019-07-01
 updated: "2021-06-30 09:38:08"
 ---
 

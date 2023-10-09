@@ -2,7 +2,7 @@
 title: 从 Blast2GO 到 MySQL 源码编译安装
 urlname: 2019-07-01-install-mysql-from-source
 author: 章鱼猫先生
-date: "2019-07-01 11:50:35"
+date: 2019-07-01
 updated: "2021-06-25 10:38:23"
 ---
 

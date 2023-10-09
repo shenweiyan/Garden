@@ -2,7 +2,7 @@
 title: SSH 登录与配置
 urlname: 2021-10-08-ssh-config
 author: 章鱼猫先生
-date: "2021-10-08 16:45:45"
+date: 2021-10-08
 updated: "2022-08-18 09:23:54"
 ---
 

@@ -2,7 +2,7 @@
 title: 大学计算机没有的一课
 urlname: 2023-01-19-missing-semester
 author: 章鱼猫先生
-date: "2023-01-19 15:57:39"
+date: 2023-01-19
 updated: "2023-03-16 09:07:39"
 ---
 

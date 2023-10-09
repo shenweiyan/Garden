@@ -2,7 +2,7 @@
 title: 一个小清新的知识管理和问题讨论平台
 urlname: 2020-08-21-install-confluence-on-centos
 author: 章鱼猫先生
-date: "2020-08-21 11:15:54"
+date: 2020-08-21
 updated: "2021-06-25 10:45:31"
 ---
 

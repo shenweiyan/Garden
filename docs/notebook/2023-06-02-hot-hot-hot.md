@@ -2,7 +2,7 @@
 title: 热成狗
 urlname: 2023-06-02-hot-hot-hot
 author: 章鱼猫先生
-date: "2023-06-02 10:56:45"
+date: 2023-06-02
 updated: "2023-06-09 14:10:27"
 ---
 

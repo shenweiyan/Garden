@@ -2,7 +2,7 @@
 title: 浏览器翻译扩展神器
 urlname: 2023-02-03-exs6yzfcvv4nblob
 author: 章鱼猫先生
-date: "2023-02-03 10:14:31"
+date: 2023-02-03
 updated: "2023-03-25 02:57:00"
 ---
 

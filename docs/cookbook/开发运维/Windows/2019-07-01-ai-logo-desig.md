@@ -2,7 +2,7 @@
 title: 推荐一个由 AI 生成 LOGO 的网站
 urlname: 2019-07-01-ai-logo-desig
 author: 章鱼猫先生
-date: "2019-07-01 11:47:48"
+date: 2019-07-01
 updated: "2021-06-25 10:47:18"
 ---
 

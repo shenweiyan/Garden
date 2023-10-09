@@ -2,7 +2,7 @@
 title: Linux 中多终端同步 history 记录
 urlname: 2020-09-04-history-command
 author: 章鱼猫先生
-date: "2020-09-04 17:07:33"
+date: 2020-09-04
 updated: "2021-06-25 10:54:31"
 ---
 

@@ -2,7 +2,7 @@
 title: LaTeX 折腾系列 | Linux 字体安装的一点记录
 urlname: 2020-02-10-linux-install-fonts
 author: 章鱼猫先生
-date: "2020-02-10 17:00:51"
+date: 2020-02-10
 updated: "2021-06-30 09:38:15"
 ---
 

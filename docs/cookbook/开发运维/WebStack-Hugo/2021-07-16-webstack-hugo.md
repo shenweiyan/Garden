@@ -2,7 +2,7 @@
 title: WebStack-Hugo | 一个静态响应式导航主题
 urlname: 2021-07-16-webstack-hugo
 author: 章鱼猫先生
-date: "2021-07-16 06:29:20"
+date: 2021-07-16
 updated: "2023-09-03 11:37:15"
 ---
 

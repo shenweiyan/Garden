@@ -2,7 +2,7 @@
 title: FlexSlider 和 RaxusSlider 插件相关参数
 urlname: 2019-08-07-flex-slider-and-raxus-slider
 author: 章鱼猫先生
-date: "2019-08-07 16:54:07"
+date: 2019-08-07
 updated: "2020-03-04 14:00:17"
 ---
 

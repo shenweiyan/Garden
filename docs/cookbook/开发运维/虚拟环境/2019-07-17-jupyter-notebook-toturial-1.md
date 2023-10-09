@@ -2,7 +2,7 @@
 title: Jupyter Notebook 教程(一)：本地安装与使用
 urlname: 2019-07-17-jupyter-notebook-toturial-1
 author: 章鱼猫先生
-date: "2019-07-17 11:38:57"
+date: 2019-07-17
 updated: "2021-06-30 09:37:44"
 ---
 

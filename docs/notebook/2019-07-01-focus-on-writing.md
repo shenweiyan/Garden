@@ -2,7 +2,7 @@
 title: 只要能坚持下来就是好博客
 urlname: 2019-07-01-focus-on-writing
 author: 章鱼猫先生
-date: "2019-07-01 11:55:23"
+date: 2019-07-01
 updated: "2023-03-20 11:14:54"
 ---
 

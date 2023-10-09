@@ -2,7 +2,7 @@
 title: 心灵鸡汤
 urlname: 2019-11-28-chicken-soup
 author: 章鱼猫先生
-date: "2019-11-28 10:16:19"
+date: 2019-11-28
 updated: "2021-06-30 09:46:56"
 ---
 

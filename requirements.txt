@@ -1,7 +1,7 @@
-mkdocs==1.4.2
+mkdocs==1.5.3
 mkdocs-material
 mkdocs-rss-plugin
-mkdocs-git-revision-date-plugin
+mkdocs-git-revision-date-localized-plugin
 mkdocs-include-dir-to-nav==1.2.0
 mkdocs-glightbox
 jieba

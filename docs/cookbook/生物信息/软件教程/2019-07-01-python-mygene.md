@@ -2,7 +2,7 @@
 title: 使用 Python 中的 mygene 模块进行 ID 匹配
 urlname: 2019-07-01-python-mygene
 author: 章鱼猫先生
-date: "2019-07-01 11:50:35"
+date: 2019-07-01
 updated: "2023-08-24 11:42:50"
 comments: true
 ---

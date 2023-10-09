@@ -2,7 +2,7 @@
 title: ImageMagick 图像处理安装与使用
 urlname: 2020-07-07-learn-imagemagick
 author: 章鱼猫先生
-date: "2020-07-07 11:53:38"
+date: 2020-07-07
 updated: "2021-10-29 11:05:12"
 ---
 

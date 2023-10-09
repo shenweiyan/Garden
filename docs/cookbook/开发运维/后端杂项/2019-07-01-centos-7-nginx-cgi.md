@@ -2,7 +2,7 @@
 title: CentOS Linux 7 配置 nginx 支持 CGI
 urlname: 2019-07-01-centos-7-nginx-cgi
 author: 章鱼猫先生
-date: "2019-07-01 11:50:35"
+date: 2019-07-01
 updated: "2021-06-25 10:52:36"
 ---
 

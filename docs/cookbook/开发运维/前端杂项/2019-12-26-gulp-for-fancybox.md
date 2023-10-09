@@ -2,7 +2,7 @@
 title: 基于 gulp 的 fancybox 源码压缩
 urlname: 2019-12-26-gulp-for-fancybox
 author: 章鱼猫先生
-date: "2019-12-26 08:51:34"
+date: 2019-12-26
 updated: "2021-06-25 10:53:12"
 ---
 

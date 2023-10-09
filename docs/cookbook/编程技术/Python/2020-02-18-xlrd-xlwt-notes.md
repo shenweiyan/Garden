@@ -2,7 +2,7 @@
 title: Python Excel 操作 | xlrd+xlwt 模块笔记
 urlname: 2020-02-18-xlrd-xlwt-notes
 author: 章鱼猫先生
-date: "2020-02-18 16:06:39"
+date: 2020-02-18
 updated: "2022-04-19 16:52:09"
 ---
 

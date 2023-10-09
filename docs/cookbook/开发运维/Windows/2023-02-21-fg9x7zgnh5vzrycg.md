@@ -2,7 +2,7 @@
 title: 终端 | Termius 使用体验
 urlname: 2023-02-21-fg9x7zgnh5vzrycg
 author: 章鱼猫先生
-date: "2023-02-21 14:04:33"
+date: 2023-02-21
 updated: "2023-02-21 14:51:55"
 ---
 

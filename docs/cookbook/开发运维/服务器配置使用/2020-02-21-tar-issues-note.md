@@ -2,7 +2,7 @@
 title: tar 打包的一些注意问题
 urlname: 2020-02-21-tar-issues-note
 author: 章鱼猫先生
-date: "2020-02-21 15:47:47"
+date: 2020-02-21
 updated: "2021-06-25 10:54:07"
 ---
 

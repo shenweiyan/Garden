@@ -2,7 +2,7 @@
 title: 使用腾讯 CODING 托管并自动部署 Hugo 网站
 urlname: 2021-09-10-coding-ci-hugo
 author: 章鱼猫先生
-date: "2021-09-10 10:33:22"
+date: 2021-09-10
 updated: "2022-11-25 09:51:15"
 ---
 

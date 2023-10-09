@@ -2,7 +2,7 @@
 title: 兆碱基中关于Kb、KB、Bps、bps的区别
 urlname: 2019-07-01-different-on-bytes
 author: 章鱼猫先生
-date: "2019-07-01 11:50:35"
+date: 2019-07-01
 updated: "2021-06-30 09:39:04"
 ---
 

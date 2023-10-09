@@ -2,7 +2,7 @@
 title: "[micro]mamba 学习笔记"
 urlname: 2023-04-19-tkrdu8xnidryrmqa
 author: 章鱼猫先生
-date: "2023-04-19 14:10:47"
+date: 2023-04-19
 updated: "2023-04-19 15:25:51"
 ---
 

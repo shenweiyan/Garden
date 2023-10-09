@@ -2,7 +2,7 @@
 title: GitHub 的项目徽章
 urlname: 2019-08-21-github-badge
 author: 章鱼猫先生
-date: "2019-08-21 09:54:31"
+date: 2019-08-21
 updated: "2021-06-30 09:37:19"
 ---
 

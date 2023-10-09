@@ -2,7 +2,7 @@
 title: Linux 下的动态库、静态库与环境变量
 urlname: 2019-07-19-linux-lib-env
 author: 章鱼猫先生
-date: "2019-07-19 10:22:00"
+date: 2019-07-19
 updated: "2021-06-25 11:03:38"
 ---
 

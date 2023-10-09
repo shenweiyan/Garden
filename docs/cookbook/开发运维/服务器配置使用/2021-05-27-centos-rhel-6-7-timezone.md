@@ -2,7 +2,7 @@
 title: 更改 CentOS/RHEL 6/7 中的时区
 urlname: 2021-05-27-centos-rhel-6-7-timezone
 author: 章鱼猫先生
-date: "2021-05-27 14:54:34"
+date: 2021-05-27
 updated: "2021-06-25 10:53:50"
 ---
 

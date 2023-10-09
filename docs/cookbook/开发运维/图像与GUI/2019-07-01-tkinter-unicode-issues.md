@@ -2,7 +2,7 @@
 title: Python 中 tkinter 中文乱码
 urlname: 2019-07-01-tkinter-unicode-issues
 author: 章鱼猫先生
-date: "2019-07-01 11:50:35"
+date: 2019-07-01
 updated: "2023-06-09 14:43:56"
 ---
 

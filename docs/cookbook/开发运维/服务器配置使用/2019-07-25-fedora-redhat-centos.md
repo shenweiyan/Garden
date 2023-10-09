@@ -2,7 +2,7 @@
 title: Fedora Redhat Centos 有什么区别和关系？
 urlname: 2019-07-25-fedora-redhat-centos
 author: 章鱼猫先生
-date: "2019-07-25 09:29:15"
+date: 2019-07-25
 updated: "2021-06-25 11:04:14"
 ---
 

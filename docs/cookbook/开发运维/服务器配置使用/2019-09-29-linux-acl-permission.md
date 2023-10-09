@@ -2,7 +2,7 @@
 title: 在 Linux 上给用户赋予指定目录的读写权限
 urlname: 2019-09-29-linux-acl-permission
 author: 章鱼猫先生
-date: "2019-09-29 16:28:52"
+date: 2019-09-29
 updated: "2021-06-25 11:02:02"
 ---
 

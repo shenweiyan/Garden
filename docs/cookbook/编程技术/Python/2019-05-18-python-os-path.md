@@ -2,7 +2,7 @@
 title: python3 中 os.path 模块常用用法总结
 urlname: 2019-05-18-python-os-path
 author: 章鱼猫先生
-date: "2019-05-18 20:44:59"
+date: 2019-05-18
 updated: "2021-06-30 09:41:34"
 ---
 

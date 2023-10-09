@@ -2,7 +2,7 @@
 title: Jupyter Notebook 教程(二)：服务器搭建
 urlname: 2019-07-17-jupyter-notebook-toturial-2
 author: 章鱼猫先生
-date: "2019-07-17 15:48:42"
+date: 2019-07-17
 updated: "2021-06-30 09:37:53"
 ---
 

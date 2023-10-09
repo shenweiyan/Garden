@@ -2,7 +2,7 @@
 title: 2022 年的十大生物学突破
 urlname: 2023-03-15-biology-breakthroughs-2022
 author: 章鱼猫先生
-date: "2023-03-15 09:04:08"
+date: 2023-03-15
 updated: "2023-03-31 20:49:41"
 ---
 

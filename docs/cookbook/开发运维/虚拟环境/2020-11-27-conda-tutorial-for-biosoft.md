@@ -2,7 +2,7 @@
 title: 一文掌握 conda 安装配置生物信息软件
 urlname: 2020-11-27-conda-tutorial-for-biosoft
 author: 章鱼猫先生
-date: "2020-11-27 09:11:19"
+date: 2020-11-27
 updated: "2023-04-23 16:12:44"
 ---
 

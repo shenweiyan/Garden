@@ -2,7 +2,7 @@
 title: Windows/Linux 下功能强大的桌面截图软件
 urlname: 2021-02-26-flameshot
 author: 章鱼猫先生
-date: "2021-02-26 13:52:12"
+date: 2021-02-26
 updated: "2021-06-25 10:47:00"
 ---
 

@@ -2,7 +2,7 @@
 title: Google Code Prettify 代码高亮使用教程
 urlname: 2019-07-17-google-code-prettify
 author: 章鱼猫先生
-date: "2019-07-17 13:43:07"
+date: 2019-07-17
 updated: "2021-06-25 10:53:27"
 ---
 

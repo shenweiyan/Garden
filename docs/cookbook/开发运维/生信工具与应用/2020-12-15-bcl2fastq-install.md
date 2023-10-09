@@ -2,7 +2,7 @@
 title: 测序数据学习笔记：bcl2fastq 安装
 urlname: 2020-12-15-bcl2fastq-install
 author: 章鱼猫先生
-date: "2020-12-15 10:02:17"
+date: 2020-12-15
 updated: "2021-11-24 09:20:00"
 ---
 

@@ -2,7 +2,7 @@
 title: 综合 | Windows 常用软件合集
 urlname: 2019-06-26-win-exe-list
 author: 章鱼猫先生
-date: "2019-06-26 15:34:03"
+date: 2019-06-26
 updated: "2023-05-15 17:06:42"
 ---
 

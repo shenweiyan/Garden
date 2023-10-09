@@ -2,7 +2,7 @@
 title: chrome 超详细使用教程
 urlname: 2019-05-18-chrome-tutorial
 author: 章鱼猫先生
-date: "2019-05-18 20:29:57"
+date: 2019-05-18
 updated: "2023-07-07 10:55:47"
 ---
 

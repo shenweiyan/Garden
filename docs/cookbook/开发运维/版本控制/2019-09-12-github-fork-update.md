@@ -2,7 +2,7 @@
 title: 如何同步更新 Github 上 Fork 的项目？
 urlname: 2019-09-12-github-fork-update
 author: 章鱼猫先生
-date: "2019-09-12 10:05:22"
+date: 2019-09-12
 updated: "2021-11-03 15:46:14"
 ---
 

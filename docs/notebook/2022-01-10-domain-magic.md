@@ -2,7 +2,7 @@
 title: 域名碎碎念
 urlname: 2022-01-10-domain-magic
 author: 章鱼猫先生
-date: "2022-01-10 16:55:07"
+date: 2022-01-10
 updated: "2022-01-10 17:24:00"
 ---
 
