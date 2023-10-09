@@ -1,6 +1,7 @@
 ---
 labels: [mkdocs]
 date: 2023-10-02
+authors: [shenweiyan]
 categories:
   - mkdocs
 ---

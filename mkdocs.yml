@@ -65,7 +65,8 @@ nav:
     - 随笔乱弹: notebook
     - 语雀: https://www.yuque.com/shenweiyan
     - RSS feed: https://shenweiyan.github.io/Knowledge-Garden/feed_rss_created.xml
-    - 博客文章: blog
+    - 博客: 
+        - blog/index.md
     
 markdown_extensions:
     - md_in_html
