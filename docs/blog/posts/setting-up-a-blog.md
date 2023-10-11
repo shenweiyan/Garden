@@ -4,6 +4,7 @@ date: 2023-10-02
 authors: [shenweiyan]
 categories:
   - mkdocs
+comments: true
 ---
 
 # 为 Material for MkDocs 增加博客插件
