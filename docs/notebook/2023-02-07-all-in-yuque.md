@@ -4,6 +4,7 @@ urlname: 2023-02-07-all-in-yuque
 author: 章鱼猫先生
 date: 2023-02-07
 updated: "2023-03-22 11:36:26"
+comments: true
 ---
 
 语雀用了这么多年，有太多太多的东西保存在语雀了，这两天一直都在思考 All in Yuque 的这个问题。
