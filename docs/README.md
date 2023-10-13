@@ -1,6 +1,13 @@
-![Welcome To My Knowledge-Garden](https://shub-1251708715.cos.ap-guangzhou.myqcloud.com/mkdocs/kg-readme-cover.gif)
+<style>
+  .md-typeset h1,
+  .md-content__button {
+    display: none;
+  }
+</style>
 
 本知识库基于 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) 进行部署，大部分文章来源于个人的 **[语雀知识库](https://www.yuque.com/shenweiyan)**，是作者关于生物信息学、互联网 IT、运维开发、软件测评使用等相关文章汇总。
+
+![Welcome To My Knowledge-Garden](https://shub-1251708715.cos.ap-guangzhou.myqcloud.com/mkdocs/kg-readme-cover.gif)
 
 !!! abstract "希望所有读到此博客文章的读者都有所收获"
 
