@@ -1,4 +1,4 @@
-site_name: 生信知识花园
+site_name: 维燕的知识花园
 site_url: https://shenweiyan.github.io/Knowledge-Garden/
 site_description: '记录 Bio+IT 相关的知识，沉淀生活，记录点滴。'
 docs_dir: "docs"
@@ -63,12 +63,14 @@ nav:
         - 编程技术: cookbook/编程技术
         - 数据可视化: cookbook/数据可视化
     - 随笔乱弹: notebook
-    - 语雀: https://www.yuque.com/shenweiyan
+    - 语雀: YUQUE.md
     - RSS feed: https://shenweiyan.github.io/Knowledge-Garden/feed_rss_created.xml
     - 博客: 
         - blog/index.md
     
 markdown_extensions:
+    - admonition
+    - pymdownx.details
     - md_in_html
     - pymdownx.superfences
     - smarty
