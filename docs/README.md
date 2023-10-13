@@ -1,9 +1,7 @@
-<!--style>
-  .md-typeset h1,
-  .md-content__button {
-    display: none;
-  }
-</style-->
+---
+title: 维燕的知识花园
+template: home.html
+---
 
 本知识库基于 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) 进行部署，大部分文章来源于个人的 **[语雀知识库](https://www.yuque.com/shenweiyan)**，是作者关于生物信息学、互联网 IT、运维开发、软件测评使用等相关文章汇总。
 
